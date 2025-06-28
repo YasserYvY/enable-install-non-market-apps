@@ -1,0 +1,7 @@
+id=enable-install-non-market-apps
+name=Enable Install Non-Market Apps
+description=Allows installing apps from unknown sources (non-market apps).
+author=YasserYvY
+version=v1.0.0
+versionCode=1
+repository=https://github.com/YasserYvY/enable-install-non-market-apps
